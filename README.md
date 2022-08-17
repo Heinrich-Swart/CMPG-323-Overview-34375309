@@ -11,7 +11,6 @@ In each project, I will have a main branch that will have the main project, and 
 # Explain the use of a .gitignore file within each project 
 When using .gitignore file, this will give you the reassurance that,  when you are sharing your project with other, some information will be "hidden" from them. Stuff like personal files is a good example that will be .gitignore file. I will be using the .gitignore file to "hide" personal infomation, aswell as my log files and unnessecary files like temporary files.
 
-# Explain the storage of credentials and sensitive
-information
+# Explain the storage of credentials and sensitive information
 
 When I will be using mine or others personal credential and sensitive information, I will have two options. Firstly I can store the information on my local device away from the github repository, or I can not save the information at all and keep the sensitive information out of my projects.  
